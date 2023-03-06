@@ -1,0 +1,1 @@
+/home/student/IdeaProjects/untitled9/build/classes/kotlin/main/Human.class:/home/student/IdeaProjects/untitled9/build/classes/kotlin/main/MainKt.class:/home/student/IdeaProjects/untitled9/build/classes/kotlin/main/User.class
